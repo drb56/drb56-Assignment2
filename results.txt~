@@ -1,0 +1,29 @@
+	           | LZW c | LZW e | MyLZW normal c | MyLZW normal e | MyLZW reset c | MyLZW reset e | MyLZW monitor c | MyLZW monitor e | .tar.gz c | .tar.gz e
+
+all.tar	            1.8MB    3.0MB      1.8MB            3.0MB  	1.8MB		3.0MB		  1.8MB		   3.0MB	    969.1kB    3.0MB
+		
+assig2.doc	    74.6kB    87.0kB    40.0kB           87.0kB		40.0kB		87.0kB		  40.0kB	   87.0kB	    23.3kB     87.0kB
+		
+bmps.tar	    925.1kB   1.1MB     80.9kB           1.1MB		80.9kB		1.1MB		  80.9kB	   1.1MB	    63.7kB     1.1MB
+		
+code.txt	    31.0kB    72.4kB    24.5kB           72.4kB		24.5kB		72.4kB		  24.5kB	   72.4kB	    15.3kB     72.4kB
+		
+code2.txt	    24.1kB    57.7kB    20.5kB           57.7kB		20.5kB		57.7kB		  20.5kB	   57.7kB	    13.6kB     57.7kB
+
+edit.exe            250.7kB   236.3kB   156.4kB          236.3kB	156.4kB		236.3kB		  156.4kB	   236.3kB	    126.7kB    236.3kB
+
+frosty.jpg          177.5kB   126.7kB   156.4kB          126.7kB	163.8kB		126.7kB		  163.8kB	   126.7kB          126.8kB    126.7kB
+
+gone_fishing.bmp     9.3kB    17.3kB     9.0kB            17.3kB	9.0kB		17.3kB		  9.0kB		   17.3kB           8.8kB      17.3kB
+
+large.txt           605.2kB   1.2MB      501.8kB         1.2MB		501.8kB         1.2MB		  501.8kB          1.2MB	    493.2kB    1.2MB
+
+Lego-big.gif        129.0kB   93.4kB     122.5kB         93.4kB		122.5kB         93.4kB		  122.5kB         93.4kB            92.6kB     93.4MB
+
+medium.txt          13.2kB    25.4kB     12.5kB          25.4kB		12.5kB          25.4kB		  12.5kB          25.4kB	    10.9kB     25.4kB
+
+texts.tar           1.0MB     1.4MB      597.8kB         1.4MB		597.8kB         1.4MB		  597.8kB         1.4MB		    533.4kB    1.4MB
+
+wacky.bmp           4.3kB     921.7kB    4.0kB           921.7kB	4.0kB           921.7kB		  4.0kB           921.7kB	    3.1kB      921.7kB
+
+winnt256.bmp        159.1kB   157.0kB    62.9kB          157.0kB	62.9kB          157.0kB		  62.9kB          157.0kB	    50.0kB     157.0kB
